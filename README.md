@@ -40,7 +40,7 @@ To get started with the TowerBlock game, follow these steps:
 ### Steps:
 1. Clone or download this repository to your local machine.
    
-   git clone https://github.com/yourusername/TowerBlock.git
+   git clone https://github.com/ataur-rehman/TowerBlock.git
    
 2. Navigate to the project folder.
    cd TowerBlock
