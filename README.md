@@ -15,13 +15,13 @@
 
 ## Screenshots
   <div style="display: flex; gap: 10px;">
-<img src="Main Menu.png" alt="Main Menu" width="250" />
-<img src="Difficulty.png" alt="Difficukty Level" width="250" />
+<img src="Main Menu.png" alt="Main Menu" width="400" />
+<img src="Difficulty.png" alt="Difficukty Level" width="400" />
 </div>
 
 <div style="display: flex; gap: 10px; margin-top: 20px;">
-<img src="Gameplay.png" alt="Game Play" width="250" />
-<img src="Exit.png" alt="Exit Screen" width="250" />
+<img src="Gameplay.png" alt="Game Play" width="400" />
+<img src="Exit.png" alt="Exit Screen" width="400" />
 </div>
 
 ## How to Play
