@@ -10,9 +10,6 @@
 - **Block Stacking:** Blocks fall from the top, and you must align them perfectly to prevent the tower from toppling over.
 - **Game Over Conditions:** The game ends if a block is misaligned and falls off the tower.
 
-  
-## Screenshots
-
 ## Screenshots
   <div style="display: flex; gap: 10px;">
 <img src="Main Menu.png" alt="Main Menu" width="400" />
