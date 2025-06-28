@@ -1,7 +1,7 @@
 
-# TowerBlock Game
+# TowerBlox Game
 
-**TowerBlock** is a simple 2D game developed in C++ inspired by the mobile game **CityBloxx**. The objective of the game is to stack falling blocks with precision and timing to build the tallest tower possible. It challenges the player's reflexes and coordination as they attempt to create a stable tower.
+**TowerBlox** is a simple 2D game developed in C++ inspired by the mobile game **CityBloxx**. The objective of the game is to stack falling blocks with precision and timing to build the tallest tower possible. It challenges the player's reflexes and coordination as they attempt to create a stable tower.
 
 ## Features
 
@@ -40,7 +40,7 @@ To get started with the TowerBlock game, follow these steps:
 ### Steps:
 1. Clone or download this repository to your local machine.
    
-   git clone https://github.com/ataur-rehman/TowerBlock.git
+   git clone https://github.com/ataur-rehman/TowerBlox.git
    
 2. Navigate to the project folder.
    cd TowerBlock
